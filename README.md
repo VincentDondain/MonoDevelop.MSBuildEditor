@@ -62,6 +62,12 @@ The extension includes documentation tooltips for the MSBuild language and many 
 
 The extension adds a formatting policy for MSBuild files, allowing you to customize the formatting behaviour. The default formatting policy uses two spaces for indentation, matching the project files created by Visual Studio.
 
+## Contributing
+
+#### Requirements
+
+- Make sure you have the `AddinMaker` Visual Studio for Mac extension installed (Visual Studio > Extensions). This is needed to open the `.sln`.
+
 ## TODO
 
 The following feature are not yet implemented. Please contact Mikayla if you are interested in helping out.
